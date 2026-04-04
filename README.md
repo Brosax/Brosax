@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-### 🧰 Languages and Tools
-<img src="https://skillicons.dev/icons?i=js,python,react,nextjs,tailwind,github,figma" />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=vision-friendly-dark)
+[![Tokscale Stats](https://tokscale.ai/api/embed/Brosax/svg)](https://tokscale.ai/u/Brosax)
