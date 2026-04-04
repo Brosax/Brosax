@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 <!--
 **Brosax/Brosax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🧰 Languages and Tools
+<img src="https://skillicons.dev/icons?i=js,python,react,nextjs,tailwind,github,figma" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=vision-friendly-dark)
