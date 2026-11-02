@@ -71,13 +71,9 @@
 
 <br>
 
-<details>
-  <summary><strong>AI coding activity</strong> · 查看使用统计</summary>
-  <br>
-  <a href="https://tokscale.ai/u/Brosax">
-    <img src="https://tokscale.ai/api/embed/Brosax/svg" alt="Brosax 的 Tokscale 使用统计；点击访问完整统计页">
-  </a>
-</details>
+## Tokscale · AI coding activity
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Brosax/svg)](https://tokscale.ai/u/Brosax)
 
 <br>
 
