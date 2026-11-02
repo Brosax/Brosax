@@ -20,9 +20,8 @@
   <code>Python</code> &nbsp; <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Verilog</code>
 </p>
 
-<br>
-
 <a name="selected-projects"></a>
+<br>
 <h2>Selected projects <sub> / 精选项目</sub></h2>
 
 <table>
