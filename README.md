@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
-    <img src="./assets/header.svg" width="100%" alt="Brosax — From ideas to working systems. AI workflows, developer tools, and embedded systems.">
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile-animated.svg">
+    <img src="./assets/header-animated.svg" width="100%" alt="Brosax — From ideas to working systems. AI workflows, developer tools, and embedded systems.">
   </picture>
 </p>
 
