@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#selected-projects">精选项目</a> &nbsp; / &nbsp;
+  <a href="#user-content-selected-projects">精选项目</a> &nbsp; / &nbsp;
   <a href="https://seei-comunidad.vercel.app">OpenSEEI 在线课程 ↗</a> &nbsp; / &nbsp;
   <a href="https://github.com/Brosax?tab=repositories">全部仓库 ↗</a>
 </p>
