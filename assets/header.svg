@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Brosax — From ideas to working systems.</title>
+  <desc id="desc">A dark navy profile banner with mint typography accents and three connected modules representing AI workflows, developer tools, and embedded systems.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102332"/>
+      <stop offset="0.55" stop-color="#0D1A27"/>
+      <stop offset="1" stop-color="#102C36"/>
+    </linearGradient>
+    <linearGradient id="wire" x1="840" y1="80" x2="1110" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#70E1CE"/>
+      <stop offset="1" stop-color="#35839A"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#8DADB8" opacity="0.12"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="360" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect x="760" width="440" height="360" fill="url(#dots)"/>
+    <path d="M760 0V360" stroke="#B2D0D9" stroke-opacity="0.08"/>
+    <path d="M64 31H134" stroke="#72E4CE" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="67" cy="73" r="3" fill="#EFC08A"/>
+    <text x="82" y="78" fill="#B5CBD3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="2.7">BUILD · EXPLORE · ITERATE</text>
+    <text x="60" y="174" fill="#F0F7F9" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" letter-spacing="5">BROSAX<tspan fill="#72E4CE">.</tspan></text>
+    <text x="64" y="220" fill="#C7DBE2" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400">From ideas to working systems.</text>
+    <path d="M64 260H710" stroke="#8FB9C6" stroke-opacity="0.16"/>
+    <text x="64" y="299" fill="#A8C2CD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500" letter-spacing="1.3">AI WORKFLOWS <tspan fill="#4D777E">/</tspan> DEVELOPER TOOLS <tspan fill="#4D777E">/</tspan> EMBEDDED SYSTEMS</text>
+
+    <!-- Three connected modules; all artwork is native SVG. -->
+    <g stroke="url(#wire)" stroke-width="1.5">
+      <path d="M907 111H962Q978 111 978 127V159H1005"/>
+      <path d="M907 249H962Q978 249 978 233V201H1005"/>
+      <path d="M861 151V209" stroke-opacity="0.45"/>
+      <path d="M1101 180H1133Q1149 180 1149 196V286" stroke-opacity="0.27"/>
+    </g>
+    <circle cx="978" cy="159" r="3" fill="#72E4CE"/>
+    <circle cx="978" cy="201" r="3" fill="#72E4CE"/>
+    <circle cx="1149" cy="288" r="3" fill="#EFC08A"/>
+
+    <rect x="815" y="65" width="92" height="92" rx="16" fill="#112B36" stroke="#37626C"/>
+    <g stroke="#79E2CF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="861" cy="97" r="6"/>
+      <circle cx="844" cy="121" r="5"/>
+      <circle cx="878" cy="121" r="5"/>
+      <path d="M857 102L847 117M865 102L875 117M849 121H873"/>
+    </g>
+    <text x="861" y="143" text-anchor="middle" fill="#B5CDD5" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="600" letter-spacing="1.5">AGENTS</text>
+
+    <rect x="815" y="203" width="92" height="92" rx="16" fill="#112B36" stroke="#37626C"/>
+    <g stroke="#79E2CF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M849 229L840 238L849 247M873 229L882 238L873 247M864 226L858 250"/>
+    </g>
+    <text x="861" y="281" text-anchor="middle" fill="#B5CDD5" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="600" letter-spacing="1.5">TOOLS</text>
+
+    <rect x="1005" y="132" width="96" height="96" rx="17" fill="#183841" stroke="#70D6C7" stroke-opacity="0.75"/>
+    <g stroke="#A3EFE0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="1038" y="153" width="30" height="30" rx="4"/>
+      <rect x="1046" y="161" width="14" height="14" rx="1"/>
+      <path d="M1046 148V153M1060 148V153M1046 183V188M1060 183V188M1033 161H1038M1033 175H1038M1068 161H1073M1068 175H1073"/>
+    </g>
+    <text x="1053" y="212" text-anchor="middle" fill="#D1E9E8" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="600" letter-spacing="1.5">SYSTEMS</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="19.5" stroke="#BCDCE5" stroke-opacity="0.13"/>
+</svg>
